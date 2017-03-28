@@ -26,7 +26,7 @@ export interface VideoOptions {
  *
  * @usage
  * ```typescript
- * import { VideoPlayer } from '@ionic-native/video-player;
+ * import { VideoPlayer } from '@ionic-native/video-player'; //Added missing apostrophe
  *
  * constructor(private videoPlayer: VideoPlayer) { }
  *
